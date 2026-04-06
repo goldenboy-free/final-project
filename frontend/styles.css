@@ -1,0 +1,194 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f7fc;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 2em;
+    background-color: #fff;
+    color: #000;
+}
+
+#siteTitle {
+    margin: 0;
+    transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
+}
+
+body.dark-mode {
+    background-color: #333;
+    color: #f4f7fc;
+}
+
+/* Dark mode tweaks for dashboard panels so they are readable */
+body.dark-mode .dashboard,
+body.dark-mode .issue-display {
+    background: #444;
+    color: #f4f7fc;
+}
+
+/* Dark mode button styles */
+body.dark-mode header {
+    background-color: #4F46E5;
+    color: white;
+}
+
+main {
+    margin: 20px;
+}
+
+.input-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 20px 0;
+}
+
+.input-section input,
+.input-section button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.input-section button {
+    background: #4F46E5;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
+}
+
+.spinner {
+    display: none;
+    width: 20px;
+    height: 20px;
+    border: 3px solid rgba(0, 0, 0, .3);
+    border-radius: 50%;
+    border-top-color: #4F46E5;
+    animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.dashboard,
+.issue-display {
+    /* display: none; */
+    background: white;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, .1);
+}
+
+.score-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* 📱 Responsive Design Updates */
+@media (max-width: 600px) {
+    main {
+        margin: 10px;
+    }
+
+    .input-section {
+        flex-direction: column;
+        align-items: stretch;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .input-section input,
+    .input-section button {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .score-container {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 5px;
+    }
+
+    .card {
+        padding: 10px !important;
+    }
+
+    header h1 {
+        font-size: 1.5rem;
+    }
+}
+
+/* Toggle switch styling */
+#themeToggleContainer {
+    position: relative;
+    width: 40px;
+    height: 20px;
+}
+
+#themeSwitch {
+    display: none;
+}
+
+#themeSwitch+label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #ccc;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#themeSwitch+label::after {
+    content: '';
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    width: 14px;
+    height: 14px;
+    background-color: #fff;
+    border-radius: 50%;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+#themeSwitch:checked+label {
+    background-color: #4F46E5;
+}
+
+#themeSwitch:checked+label::after {
+    transform: translateX(20px);
+    background-color: #fff;
+}
+
+/* Site Description Styles */
+#siteDescription {
+    padding: 20px;
+    background-color: #f4f7fc;
+    color: #333;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, .1);
+}
+
+#siteDescription h2 {
+    margin-top: 0;
+}
+
+body.dark-mode #siteDescription {
+    background-color: #4F46E5;
+    color: #f4f7fc;
+}

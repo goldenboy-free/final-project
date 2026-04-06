@@ -1,0 +1,24 @@
+# ── Core Agents ──────────────────────────────────────────
+requests
+beautifulsoup4
+lxml
+language-tool-python
+tabulate
+validators==0.35.0
+urllib3
+tqdm
+colorama
+setuptools
+textblob
+textstat
+nltk==3.8.1
+scikit-learn==1.4.2
+datasketch==1.6.4
+matplotlib==3.9.0
+numpy==2.4.2
+scipy==1.17.1
+joblib==1.5.3
+regex==2026.1.15
+
+# ── Flask Backend ────────────────────────────────────────
+flask

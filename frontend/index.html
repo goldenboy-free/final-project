@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Website Audit Tool</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <h1 id="siteTitle">AI Website Audit Tool</h1>
+        <div id="themeToggleContainer">
+            <input type="checkbox" id="themeSwitch" />
+            <label for="themeSwitch"></label>
+        </div>
+    </header>
+    <main id="heatmap">
+        <!-- Add a brief description of the website -->
+        <section id="siteDescription">
+            <h2>About Our Website</h2>
+            <p>Welcome to our AI-powered website audit tool. Here, we use advanced algorithms to analyze your site's performance and suggest improvements for enhancing user experience and SEO.</p>
+        </section>
+        <section class="input-section">
+            <form id="auditForm">
+                <input type="text" id="urlInput" placeholder="Enter URL" required>
+                <button type="submit">Run Audit</button>
+            </form>
+            <div id="loadingSpinner" class="spinner"></div>
+        </section>
+        <section class="dashboard">
+            <h2>Audit Results</h2>
+            <p>Total Issues: <span id="totalIssues">0</span></p>
+            <p>High Priority Issues: <span id="highIssues">0</span></p>
+            <p>Medium Priority Issues: <span id="mediumIssues">0</span></p>
+            <p>Low Priority Issues: <span id="lowIssues">0</span></p>
+            <div class="score-container">
+                <p>Response Time: <span id="responseTime">0</span> seconds</p>
+            </div>
+        </section>
+        <section class="issue-display">
+            <h2>Issues</h2>
+            <div id="issuesList"></div>
+        </section>
+    </main>
+    <script src="scripts.js"></script>
+    <script src="https://cdn.heatmap.it/v2/heatmap.min.js"></script>
+    <script>
+        hm = new Heatmap(document.getElementById('heatmap'), { /* config options */ });
+    </script>
+</body>
+</html>

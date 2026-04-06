@@ -1,0 +1,724 @@
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Special pages
+Donate
+Create account
+Log in
+Donate
+Create account
+Log in
+Contents
+(Top)
+1 Characteristics Toggle Characteristics subsection 1.1 Editing 1.1.1 Source editing 1.1.2 Example of syntax 1.1.3 Visual editing 1.1.4 Version history 1.1.5 Edit summaries 1.2 Navigation 1.2.1 Navigation between wikis 1.3 Linking to and naming pages
+1.1 Editing 1.1.1 Source editing 1.1.2 Example of syntax 1.1.3 Visual editing 1.1.4 Version history 1.1.5 Edit summaries
+1.1.1 Source editing
+1.1.2 Example of syntax
+1.1.3 Visual editing
+1.1.4 Version history
+1.1.5 Edit summaries
+1.2 Navigation 1.2.1 Navigation between wikis
+1.2.1 Navigation between wikis
+1.3 Linking to and naming pages
+2 History
+3 Alternative definitions
+4 Implementations
+5 Hosting
+6 Trust and security Toggle Trust and security subsection 6.1 Access control 6.2 Controlling changes 6.3 Trustworthiness and reliability of content 6.4 Security 6.4.1 Harmful external links
+6.1 Access control
+6.2 Controlling changes
+6.3 Trustworthiness and reliability of content
+6.4 Security 6.4.1 Harmful external links
+6.4.1 Harmful external links
+7 Communities Toggle Communities subsection 7.1 Applications 7.1.1 City wikis 7.2 Growth factors
+7.1 Applications 7.1.1 City wikis
+7.1.1 City wikis
+7.2 Growth factors
+8 Legal environment
+9 Conferences
+10 See also
+11 Notes
+12 References Toggle References subsection 12.1 Sources
+12.1 Sources
+13 Further reading
+14 External links
+Wiki
+Аԥсшәа
+Afrikaans
+Alemannisch
+Aragonés
+अंगिका
+العربية
+مصرى
+অসমীয়া
+Asturianu
+Azərbaycanca
+Башҡортса
+Boarisch
+Žemaitėška
+Bikol Central
+Беларуская (тарашкевіца)
+Беларуская
+Български
+Banjar
+Bamanankan
+বাংলা
+Brezhoneg
+Bosanski
+Буряад
+Català
+Cebuano
+کوردی
+Corsu
+Čeština
+Чӑвашла
+Cymraeg
+Dansk
+Deutsch
+Zazaki
+Ελληνικά
+Esperanto
+Español
+Eesti
+Euskara
+فارسی
+Suomi
+Võro
+Na Vosa Vakaviti
+Føroyskt
+Français
+Arpetan
+Furlan
+Gaeilge
+Kriyòl gwiyannen
+Galego
+Hausa
+עברית
+हिन्दी
+Hrvatski
+Kreyòl ayisyen
+Magyar
+Հայերեն
+Interlingua
+Bahasa Indonesia
+Igbo
+Ilokano
+ГӀалгӀай
+Ido
+Íslenska
+Italiano
+ᐃᓄᒃᑎᑐᑦ / inuktitut
+日本語
+La .lojban.
+Jawa
+ქართული
+Taqbaylit
+Қазақша
+ಕನ್ನಡ
+한국어
+Kurdî
+Кыргызча
+Latina
+Lëtzebuergesch
+Lingua Franca Nova
+Limburgs
+Lombard
+Lietuvių
+Latviešu
+Malagasy
+Minangkabau
+Македонски
+മലയാളം
+Монгол
+मराठी
+Bahasa Melayu
+Malti
+မြန်မာဘာသာ
+مازِرونی
+Nāhuatl
+Nedersaksies
+Plattdüütsch
+नेपाली
+Nederlands
+Norsk nynorsk
+Norsk bokmål
+Nouormand
+Occitan
+ਪੰਜਾਬੀ
+Pangasinan
+Polski
+Piemontèis
+Ποντιακά
+پښتو
+Português
+Runa Simi
+Română
+Русский
+Русиньскый
+संस्कृतम्
+Sardu
+Sicilianu
+Scots
+Srpskohrvatski / српскохрватски
+တႆး
+සිංහල
+Simple English
+Slovenčina
+Slovenščina
+Soomaaliga
+Shqip
+Српски / srpski
+Sunda
+Svenska
+Kiswahili
+தமிழ்
+తెలుగు
+Тоҷикӣ
+ไทย
+Tagalog
+Toki pona
+Türkçe
+Татарча / tatarça
+Українська
+اردو
+Oʻzbekcha / ўзбекча
+Tiếng Việt
+Winaray
+吴语
+Хальмг
+მარგალური
+ייִדיש
+Yorùbá
+文言
+閩南語 / Bân-lâm-gí
+粵語
+中文
+Article
+Talk
+Read
+View source
+View history
+Read
+View source
+View history
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Download QR code
+Download as PDF
+Printable version
+Wikimedia Commons
+Meta-Wiki
+Wikiversity
+Wikidata item
+A wiki ( / ˈ w ɪ k i / ⓘ WICK -ee ) is a form of hypertext publication on the internet which is collaboratively edited and managed by its audience directly through a web browser . A typical wiki contains multiple pages that can either be edited by the public or limited to use within an organization for maintaining its internal knowledge base . Its name derives from the first user-editable website called WikiWikiWeb – wiki (pronounced [wiki] [ note 1 ] ) is a Hawaiian word meaning 'quick'. [ 1 ] [ 2 ] [ 3 ] [ 4 ]
+Wikis are powered by wiki software , also known as wiki engines. Being a form of content management system , these differ from other web-based systems such as blog software or static site generators in that the content is created without any defined owner or leader. Wikis have little inherent structure, allowing one to emerge according to the needs of the users. [ 5 ] Wiki engines usually allow content to be written using a lightweight markup language and sometimes edited with the help of a rich-text editor . [ 6 ] There are dozens of different wiki engines in use, both standalone and part of other software, such as bug tracking systems . Some wiki engines are free and open-source , whereas others are proprietary . Some permit control over different functions (levels of access); for example, editing rights may permit changing, adding, or removing material. Others may permit access without enforcing access control. Further rules may be imposed to organize content. In addition to hosting user-authored content, wikis allow those users to interact, hold discussions, and collaborate. [ 7 ]
+There are hundreds of thousands of wikis in use , both public and private, including wikis functioning as knowledge management resources, note-taking tools, community websites , and intranets . Ward Cunningham , the developer of the first wiki software, WikiWikiWeb, originally described wiki as "the simplest online database that could possibly work". [ 8 ]
+The online encyclopedia project Wikipedia is the most popular wiki-based website, as well being one of the internet's most popular websites , having been ranked consistently as such since at least 2007. [ 9 ] Wikipedia is not a single wiki but rather a collection of hundreds of wikis, with each one pertaining to a specific language, making it the largest reference work of all time. [ 10 ] The English-language Wikipedia has the largest collection of articles, standing at 7,141,802 as of February 2026. [ 11 ]
+Characteristics
+In their 2001 book The Wiki Way: Quick Collaboration on the Web , Ward Cunningham and co-author Bo Leuf described the essence of the wiki concept: [ 12 ] [ 13 ]
+"A wiki invites all users—not just experts—to edit any page or to create new pages within the wiki website, using only a standard 'plain-vanilla' Web browser without any extra add-ons ."
+"Wiki promotes meaningful topic associations between different pages by making page link creation intuitively easy and showing whether an intended target page exists or not."
+"A wiki is not a carefully crafted site created by experts and professional writers and designed for casual visitors. Instead, it seeks to involve the typical visitor/user in an ongoing process of creation and collaboration that constantly changes the website landscape."
+Editing
+Source editing
+Some wikis will present users with an edit button or link directly on the page being viewed. This will open an interface for writing, formatting, and structuring page content. The interface may be a source editor, which is text-based and employs a lightweight markup language (also known as wikitext , wiki markup , or wikicode ), or a visual editor . For example, in a source editor, starting lines of text with asterisks could create a bulleted list .
+The syntax and features of wiki markup languages for denoting style and structure can vary greatly among implementations . Some allow the use of HTML Tooltip Hypertext Markup Language and CSS Tooltip Cascading Style Sheets , [ 14 ] while others prevent the use of these to foster uniformity in appearance.
+Example of syntax
+A short section of the 1865 novel Alice's Adventures in Wonderland rendered in wiki markup:
+Wiki markup
+Equivalent in HTML
+Output shown to readers
+"Take some more [[ tea ]] ," the March Hare said to Alice, very earnestly.
+
+"I've had '''nothing''' yet," Alice replied in an offended tone, "so I can't take more."
+
+"You mean you can't take ''less'' ," said the Hatter. "It's very easy to take ''more'' than nothing."
+< p > "Take some more < a href = "/wiki/Tea" title = "Tea" > tea </ a > ," the March Hare said to Alice, very earnestly. </ p > < p > "I've had < b > nothing </ b > yet," Alice replied in an offended tone, "so I can't take more." </ p > < p > "You mean you can't take < i > less </ i > ," said the Hatter. "It's very easy to take < i > more </ i > than nothing." </ p >
+"Take some more tea ," the March Hare said to Alice, very earnestly. "I've had nothing yet," Alice replied in an offended tone, "so I can't take more." "You mean you can't take less ," said the Hatter. "It's very easy to take more than nothing."
+"I've had nothing yet," Alice replied in an offended tone, "so I can't take more."
+"You mean you can't take less ," said the Hatter. "It's very easy to take more than nothing."
+Visual editing
+While wiki engines have traditionally offered source editing to users, in recent years some implementations have added a rich text editing mode. This is usually implemented, using JavaScript , as an interface which translates formatting instructions chosen from a toolbar into the corresponding wiki markup or HTML. This is generated and submitted to the server transparently , shielding users from the technical detail of markup editing and making it easier for them to change the content of pages. An example of such an interface is the VisualEditor in MediaWiki , the wiki engine used by Wikipedia. WYSIWYG editors may not provide all the features available in wiki markup, and some users prefer not to use them, so a source editor will often be available simultaneously.
+Version history
+Some wiki implementations keep a record of changes made to wiki pages, and may store every version of the page permanently. This allows authors to revert a page to an older version to rectify a mistake, or counteract a malicious or inappropriate edit to its content. [ 15 ]
+These stores are typically presented for each page in a list, called a "log" or "edit history", available from the page via a link in the interface. The list displays metadata for each revision to the page, such as the time and date of when it was stored, and the name of the person who created it, alongside a link to view that specific revision. A diff (short for "difference") feature may be available, which highlights the changes between any two revisions.
+Edit summaries
+The edit history view in many wiki implementations will include edit summaries written by users when submitting changes to a page. Similar to the function of a log message in a revision control system, an edit summary is a short piece of text which summarizes and perhaps explains the change, for example "Corrected grammar" or "Fixed table formatting to not extend past page width". It is not inserted into the article's main text.
+Navigation
+Traditionally, wikis offer free navigation between their pages via hypertext links in page text, rather than requiring users to follow a formal or structured navigation scheme. Users may also create indexes or table of contents pages, hierarchical categorization via a taxonomy , or other forms of ad hoc content organization. Wiki implementations can provide one or more ways to categorize or tag pages to support the maintenance of such index pages, such as a backlink feature which displays all pages that link to a given page. Adding categories or tags to a page makes it easier for other users to find it.
+Most wikis allow the titles of pages to be searched amongst, and some offer full text search of all stored content.
+Navigation between wikis
+Some wiki communities have established navigational networks between each other using a system called WikiNodes . A WikiNode is a page on a wiki which describes and links to other, related wikis. Some wikis operate a structure of neighbors and delegates , wherein a neighbor wiki is one which discusses similar content or is otherwise of interest, and a delegate wiki is one which has agreed to have certain content delegated to it. [ 16 ] WikiNode networks act as webrings which may be navigated from one node to another to find a wiki which addresses a specific subject.
+Linking to and naming pages
+The syntax used to create internal hyperlinks varies between wiki implementations. Beginning with the WikiWikiWeb in 1995, most wikis used camel case to name pages, [ 17 ] which is when words in a phrase are capitalized and the spaces between them removed. In this system, the phrase "camel case" would be rendered as "CamelCase". In early wiki engines, when a page was displayed, any instance of a camel case phrase would be transformed into a link to another page named with the same phrase.
+While this system made it easy to link to pages, it had the downside of requiring pages to be named in a form deviating from standard spelling, and titles of a single word required abnormally capitalizing one of the letters (e.g. "WiKi" instead of "Wiki"). Some wiki implementations attempt to improve the display of camel case page titles and links by reinserting spaces and possibly also reverting to lower case, but this simplistic method is not able to correctly present titles of mixed capitalization. For example, " Kingdom of France " as a page title would be written as "KingdomOfFrance", and displayed as "Kingdom Of France".
+To avoid this problem, the syntax of wiki markup gained free links , wherein a term in natural language could be wrapped in special characters to turn it into a link without modifying it. The concept was given the name in its first implementation, in UseModWiki in February 2001. [ 18 ] In that implementation, link terms were wrapped in a double set of square brackets, for example [[Kingdom of France]] . This syntax was adopted by a number of later wiki engines.
+It is typically possible for users of a wiki to create links to pages that do not yet exist, as a way to invite the creation of those pages. Such links are usually differentiated visually in some fashion, such as being colored red instead of the default blue, which was the case in the original WikiWikiWeb, or by appearing as a question mark next to the linked words.
+History
+WikiWikiWeb was the first wiki. [ 19 ] Ward Cunningham started developing it in 1994, and installed it on the Internet domain c2.com on March 25, 1995. Cunningham gave it the name after remembering a Honolulu International Airport counter employee telling him to take the " Wiki Wiki Shuttle " bus that runs between the airport's terminals, later observing that "I chose wiki-wiki as an alliterative substitute for 'quick' and thereby avoided naming this stuff quick-web." [ 20 ] [ 21 ]
+Cunningham's system was inspired by his having used Apple 's hypertext software HyperCard , which allowed users to create interlinked "stacks" of virtual cards. [ 22 ] HyperCard, however, was single-user, and Cunningham was inspired to build upon the ideas of Vannevar Bush , the inventor of hypertext, by allowing users to "comment on and change one another's text". [ 6 ] [ 23 ] Cunningham says his goals were to link together people's experiences to create a new literature to document programming patterns , and to harness people's natural desire to talk and tell stories with a technology that would feel comfortable to those not used to "authoring". [ 22 ]
+Wikipedia became the most famous wiki site [ clarification needed ] , launched in January 2001 and entering the top ten most popular websites in 2007. In the early 2000s, wikis were increasingly adopted in enterprise as collaborative software. Common uses included project communication, intranets , and documentation, initially for technical users. Some companies use wikis as their collaborative software and as a replacement for static intranets, and some schools and universities use wikis to enhance group learning . On March 15, 2007, the word wiki was listed in the online Oxford English Dictionary . [ 24 ]
+Alternative definitions
+In the late 1990s and early 2000s, the word "wiki" was used to refer to both user-editable websites and the software that powers them, and the latter definition is still occasionally in use. [ 5 ]
+By 2014, Ward Cunningham's thinking on the nature of wikis had evolved, leading him to write [ 25 ] that the word "wiki" should not be used to refer to a single website, but rather to a mass of user-editable pages or sites so that a single website is not "a wiki" but "an instance of wiki". In this concept of wiki federation, in which the same content can be hosted and edited in more than one location in a manner similar to distributed version control , the idea of a single discrete "wiki" no longer made sense. [ 26 ]
+Implementations
+The software which powers a wiki may be implemented as a series of scripts which operate an existing web server , a standalone application server that runs on one or more web servers, or in the case of personal wikis , run as a standalone application on a single computer. Some wikis use flat file databases to store page content, while others use a relational database , [ 27 ] as indexed database access is faster on large wikis, particularly for searching.
+Hosting
+Wikis can also be created on wiki hosting services (also known as wiki farms ), where the server-side software is implemented by the wiki farm owner, and may do so at no charge in exchange for advertisements being displayed on the wiki's pages. Some hosting services offer private, password-protected wikis requiring authentication to access. Free wiki farms generally contain advertising on every page.
+Trust and security
+Access control
+The four basic types of users who participate in wikis are readers, authors, wiki administrators and system administrators. System administrators are responsible for the installation and maintenance of the wiki engine and the container web server. Wiki administrators maintain content and, through having elevated privileges , are granted additional functions (including, for example, preventing edits to pages, deleting pages, changing users' access rights, or blocking them from editing). [ 28 ]
+Controlling changes
+Wikis are generally designed with a soft security philosophy in which it is easy to correct mistakes or harmful changes, rather than attempting to prevent them from happening in the first place. This allows them to be very open while providing a means to verify the validity of recent additions to the body of pages. Most wikis offer a recent changes page which shows recent edits, or a list of edits made within a given time frame. [ 29 ] Some wikis can filter the list to remove edits flagged by users as "minor" and automated edits. [ 30 ] The version history feature allows harmful changes to be reverted quickly and easily. [ 15 ]
+Some wiki engines provide additional content control, allowing remote monitoring and management of a page or set of pages to maintain quality. A person willing to maintain pages will be alerted of modifications to them, allowing them to verify the validity of new editions quickly. [ 31 ] Such a feature is often called a watchlist .
+Some wikis also implement patrolled revisions , in which editors with the requisite credentials can mark edits as being legitimate. A flagged revisions system can prevent edits from going live until they have been reviewed. [ 32 ]
+Wikis may allow any person on the web to edit their content without having to register an account on the site first ( anonymous editing ), or require registration as a condition of participation. [ 33 ] On implementations where an administrator is able to restrict editing of a page or group of pages to a specific group of users, they may have the option to prevent anonymous editing while allowing it for registered users. [ 34 ]
+Trustworthiness and reliability of content
+Critics of publicly editable wikis argue that they could be easily tampered with by malicious individuals, or even by well-meaning but unskilled users who introduce errors into the content. Proponents maintain that these issues will be caught and rectified by a wiki's community of users. [ 6 ] [ 19 ] High editorial standards in medicine and health sciences articles, in which users typically use peer-reviewed journals or university textbooks as sources, have led to the idea of expert-moderated wikis. [ 35 ] Wiki implementations retaining and allowing access to specific versions of articles has been useful to the scientific community, by allowing expert peer reviewers to provide links to trusted version of articles which they have analyzed. [ 36 ]
+Security
+Trolling and cybervandalism on wikis, where content is changed to something deliberately incorrect or a hoax , offensive material or nonsense is added, or content is maliciously removed, can be a major problem. On larger wiki sites it is possible for such changes to go unnoticed for a long period.
+In addition to using the approach of soft security for protecting themselves, larger wikis may employ sophisticated methods, such as bots that automatically identify and revert vandalism. For example, on Wikipedia, the bot ClueBot NG uses machine learning to identify likely harmful changes, and reverts these changes within minutes or even seconds. [ 37 ]
+Disagreements between users over the content or appearance of pages may cause edit wars , where competing users repetitively change a page back to a version that they favor. Some wiki software allows administrators to prevent pages from being editable until a decision has been made on what version of the page would be most appropriate. [ 7 ]
+Some wikis may be subject to external structures of governance which address the behavior of persons with access to the system, for example in academic contexts. [ 27 ]
+Harmful external links
+As most wikis allow the creation of hyperlinks to other sites and services, the addition of malicious hyperlinks, such as sites infected with malware , can also be a problem. For example, in 2006 a German Wikipedia article about the Blaster Worm was edited to include a hyperlink to a malicious website, and users of vulnerable Microsoft Windows systems who followed the link had their systems infected with the worm. [ 7 ] Some wiki engines offer a blacklist feature which prevents users from adding hyperlinks to specific sites that have been placed on the list by the wiki's administrators.
+Communities
+Applications
+The English Wikipedia has the largest user base among wikis on the World Wide Web [ 38 ] and ranks in the top 10 among all Web sites in terms of traffic. [ 39 ] Other large wikis include the WikiWikiWeb , Memory Alpha , Wikivoyage , and previously Susning.nu , a Swedish-language knowledge base. Medical and health-related wiki examples include Ganfyd , an online collaborative medical reference that is edited by medical professionals and invited non-medical experts. [ 40 ] Many wiki communities are private, particularly within enterprises . They are often used as internal documentation for in-house systems and applications. Some companies use wikis to allow customers to help produce software documentation. [ 41 ] A study of corporate wiki users found that they could be divided into "synthesizers" and "adders" of content. Synthesizers' frequency of contribution was affected more by their impact on other wiki users, while adders' contribution frequency was affected more by being able to accomplish their immediate work. [ 42 ] From a study of thousands of wiki deployments, Jonathan Grudin concluded careful stakeholder analysis and education are crucial to successful wiki deployment. [ 43 ]
+In 2005, the Gartner Group, noting the increasing popularity of wikis, estimated that they would become mainstream collaboration tools in at least 50% of companies by 2009. [ 44 ] [ needs update ] Wikis can be used for project management . [ 45 ] [ 46 ] [ unreliable source ] Wikis have also been used in the academic community for sharing and dissemination of information across institutional and international boundaries. [ 47 ] In those settings, they have been found useful for collaboration on grant writing , strategic planning , departmental documentation, and committee work. [ 48 ] In the mid-2000s, the increasing trend among industries toward collaboration placed a heavier impetus upon educators to make students proficient in collaborative work, inspiring even greater interest in wikis being used in the classroom. [ 7 ]
+Wikis have found some use within the legal profession and within the government. Examples include the Central Intelligence Agency 's Intellipedia , designed to share and collect intelligence assessments , DKosopedia , which was used by the American Civil Liberties Union to assist with review of documents about the internment of detainees in Guantánamo Bay ; [ 49 ] and the wiki of the United States Court of Appeals for the Seventh Circuit , used to post court rules and allow practitioners to comment and ask questions. The United States Patent and Trademark Office operates Peer-to-Patent , a wiki to allow the public to collaborate on finding prior art relevant to the examination of pending patent applications. Queens , New York has used a wiki to allow citizens to collaborate on the design and planning of a local park. Cornell Law School founded a wiki-based legal dictionary called Wex , whose growth has been hampered by restrictions on who can edit. [ 34 ]
+In academic contexts, wikis have also been used as project collaboration and research support systems. [ 50 ] [ 51 ]
+City wikis
+A city wiki or local wiki is a wiki used as a knowledge base and social network for a specific geographical locale. [ 52 ] [ 53 ] [ 54 ] The term city wiki is sometimes also used for wikis that cover not just a city, but a small town or an entire region. Such a wiki contains information about specific instances of things, ideas, people and places. Such highly localized information might be appropriate for a wiki targeted at local viewers, and could include:
+Details of public establishments such as public houses, bars, accommodation or social centers
+Owner name, opening hours and statistics for a specific shop
+Statistical information about a specific road in a city
+Flavors of ice cream served at a local ice cream parlor
+A biography of a local mayor and other persons
+Growth factors
+A study of several hundred wikis in 2008 showed that a relatively high number of administrators for a given content size is likely to reduce growth; [ 55 ] access controls restricting editing to registered users tends to reduce growth; a lack of such access controls tends to fuel new user registration; and that a higher ratio of administrators to regular users has no significant effect on content or population growth. [ 56 ]
+Legal environment
+Joint authorship of articles, in which different users participate in correcting, editing, and compiling the finished product, can also cause editors to become tenants in common of the copyright, making it impossible to republish without permission of all co-owners, some of whose identities may be unknown due to pseudonymous or anonymous editing. [ 7 ] Some copyright issues can be alleviated through the use of an open content license. Version 2 of the GNU Free Documentation License includes a specific provision for wiki relicensing, and Creative Commons licenses are also popular. When no license is specified, an implied license to read and add content to a wiki may be deemed to exist on the grounds of business necessity and the inherent nature of a wiki.
+Wikis and their users can be held liable for certain activities that occur on the wiki. If a wiki owner displays indifference and forgoes controls (such as banning copyright infringers) that they could have exercised to stop copyright infringement, they may be deemed to have authorized infringement, especially if the wiki is primarily used to infringe copyrights or obtains a direct financial benefit, such as advertising revenue, from infringing activities. [ 7 ] In the United States, wikis may benefit from Section 230 of the Communications Decency Act , which protects sites that engage in " Good Samaritan " policing of harmful material, with no requirement on the quality or quantity of such self-policing. [ 57 ] It has also been argued that a wiki's enforcement of certain rules, such as anti-bias, verifiability, reliable sourcing, and no-original-research policies, could pose legal risks. [ 58 ] When defamation occurs on a wiki, theoretically, all users of the wiki can be held liable, because any of them had the ability to remove or amend the defamatory material from the "publication". It remains to be seen whether wikis will be regarded as more akin to an internet service provider , which is generally not held liable due to its lack of control over publications' contents, than a publisher. [ 7 ] It has been recommended that trademark owners monitor what information is presented about their trademarks on wikis, since courts may use such content as evidence pertaining to public perceptions, and they can edit entries to rectify misinformation. [ 59 ]
+Conferences
+Active conferences and meetings about wiki-related topics include:
+Atlassian Summit, an annual conference for users of Atlassian software, including Confluence . [ 60 ]
+OpenSym (called WikiSym until 2014), an academic conference dedicated to research about wikis and open collaboration.
+SMWCon, a bi-annual conference for users and developers of Semantic MediaWiki . [ 61 ]
+TikiFest, a frequently held meeting for users and developers of Tiki Wiki CMS Groupware . [ 62 ]
+Wikimania , an annual conference dedicated to the research and practice of Wikimedia Foundation projects like Wikipedia.
+Former wiki-related events include:
+RecentChangesCamp (2006–2012), an unconference on wiki-related topics.
+RegioWikiCamp (2009–2013), a semi-annual unconference on "regiowikis", or wikis on cities and other geographic areas. [ 63 ]
+See also
+Internet portal
+Comparison of wiki software – Software to run a collaborative wiki compared
+Content management system – Software for managing digital content
+CURIE – Form of abbreviated URI
+Dispersed knowledge – Information that is spread throughout the market and not in the hands of a single agent
+Fork and pull model – A common alternate paradigm
+List of wikis
+Mass collaboration – Many people working on a single project
+Universal Edit Button – Browser extension indicating a website is editable
+Wikis and education
+Notes
+^ The realization of the Hawaiian /w/ phoneme varies between [w] and [v] , and the realization of the /k/ phoneme varies between [k] and [t] , among other realizations. Thus, the pronunciation of the Hawaiian word wiki varies between ['wiki] , ['witi] , ['viki] , and ['viti] . See Hawaiian phonology for more details.
+References
+^ "Hawaiian Words; Hawaiian to English" . mauimapp.com. Archived from the original on September 14, 2008 . Retrieved September 19, 2008 .
+^ "Wiki | Definition & Facts" . Encyclopædia Britannica . Retrieved May 19, 2025 .
+^ Hasan, Heather (2012), Wikipedia, 3.5 million articles and counting , New York: Rosen Central, p. 11 , ISBN 9781448855575 , archived from the original on October 26, 2019 , retrieved August 6, 2019
+^ Andrews, Lorrin (1865), A dictionary of the Hawaiian language to which is appended an English-Hawaiian vocabulary and a chronological table of remarkable events , Henry M. Whitney, p. 514, archived from the original on August 15, 2014 , retrieved June 1, 2014
+^ a b Mitchell, Scott (July 2008), Easy Wiki Hosting, Scott Hanselman's blog, and Snagging Screens , MSDN Magazine, archived from the original on March 16, 2010 , retrieved March 9, 2010
+^ a b c "wiki" , Encyclopædia Britannica , vol. 1, London: Encyclopædia Britannica, Inc. , 2007, archived from the original on April 24, 2008 , retrieved April 10, 2008
+^ a b c d e f g Black, Peter; Delaney, Hayden; Fitzgerald, Brian (2007), Legal Issues for Wikis: The Challenge of User-generated and Peer-produced Knowledge, Content and Culture (PDF) , vol. 14, eLaw J., archived from the original (PDF) on December 22, 2012
+^ Cunningham, Ward (June 27, 2002). "What is a Wiki" . WikiWikiWeb. Archived from the original on April 16, 2008 . Retrieved April 10, 2008 .
+^ "Alexa Top Sites" . Archived from the original on March 2, 2015 . Retrieved December 1, 2016 .
+^ "Wikipedia is 20, and its reputation has never been higher" . The Economist . January 9, 2021. Archived from the original on January 7, 2021.
+^ "Wikipedia:Size of Wikipedia" . Wikipedia . Wikimedia Foundation . Retrieved January 14, 2024 .
+^ Leuf, Bo; Cunningham, Ward (2001). The Wiki Way: Quick Collaboration on the Web . Addison-Wesley. p. 16. ISBN 978-0-201-71499-9 .
+^ "Wiki Design Principles" . Archived from the original on April 30, 2002 . Retrieved April 30, 2002 .
+^ Dohrn, Hannes; Riehle, Dirk (2011). "Design and implementation of the Sweble Wikitext parser: Unlocking the structured data of Wikipedia" . Proceedings of the 7th International Symposium on Wikis and Open Collaboration . ACM. pp. 72– 81. doi : 10.1145/2038558.2038571 . ISBN 978-1-4503-0909-7 .
+^ a b Ebersbach 2008 , p. 178
+^ "Frequently Asked Questions" . WikiNodes. Archived from the original on August 10, 2007.
+^ Bäckström, A., & Wändin, L. (2005). Spatial Hypertext Editing Tools for Wiki Web Systems.
+^ Adams, Clifford (April 26, 2001). "UseModWiki/OldVersions" . Retrieved July 25, 2024 .
+^ a b Ebersbach 2008 , p. 10.
+^ Cunningham, Ward (November 1, 2003). "Correspondence on the Etymology of Wiki" . WikiWikiWeb. Archived from the original on March 17, 2007 . Retrieved March 9, 2007 .
+^ Cunningham, Ward (February 25, 2008). "Wiki History" . WikiWikiWeb. Archived from the original on June 21, 2002 . Retrieved March 9, 2007 .
+^ a b Bill Venners (October 20, 2003). "Exploring with Wiki: A Conversation with Ward Cunningham, Part I" . artima developer. Archived from the original on February 5, 2015 . Retrieved December 12, 2014 .
+^ Cunningham, Ward (July 26, 2007). "Wiki Wiki Hyper Card" . WikiWikiWeb. Archived from the original on April 6, 2007 . Retrieved March 9, 2007 .
+^ Diamond, Graeme (March 1, 2007). "March 2007 update" . Oxford English Dictionary . Archived from the original on January 7, 2011 . Retrieved March 16, 2007 .
+^ Ward Cunningham [@WardCunningham] (November 8, 2014). "The plural of wiki is wiki. See https://forage.ward.fed.wiki.org/an-install-of-wiki.html" ( Tweet ) . Retrieved March 18, 2019 – via Twitter .
+^ "Smallest Federated Wiki" . wiki.org . Archived from the original on September 28, 2015 . Retrieved September 28, 2015 .
+^ a b Naomi, Augar; Raitman, Ruth; Zhou, Wanlei (2004). "Teaching and learning online with wikis". Proceedings of Beyond the Comfort Zone: 21st ASCILITE Conference : 95– 104. CiteSeerX 10.1.1.133.1456 .
+^ Cubric, Marija (2007). "Analysis of the use of Wiki-based collaborations in enhancing student learning" . UH Business School Working Paper . University of Hertfordshire. Archived from the original on May 15, 2011 . Retrieved April 25, 2011 .
+^ Ebersbach 2008 , p. 20
+^ Ebersbach 2008 , p. 54
+^ Ebersbach 2008 , p. 109
+^ Goldman, Eric, "Wikipedia's Labor Squeeze and its Consequences", Journal on Telecommunications and High Technology Law , 8
+^ Ebersbach 2008 , p. 108
+^ a b Noveck, Beth Simone (March 2007), "Wikipedia and the Future of Legal Education" , Journal of Legal Education , 57 (1), archived from the original on July 3, 2014 (subscription required)
+^ Barsky, Eugene; Giustini, Dean (December 2007). "Introducing Web 2.0: wikis for health librarians" (PDF) . Journal of the Canadian Health Libraries Association . 28 (4): 147– 150. doi : 10.5596/c07-036 . ISSN 1708-6892 . Archived (PDF) from the original on April 30, 2012 . Retrieved November 7, 2011 .
+^ Yager, Kevin (March 16, 2006). "Wiki ware could harness the Internet for science" . Nature . 440 (7082): 278. Bibcode : 2006Natur.440..278Y . doi : 10.1038/440278a . ISSN 0028-0836 . PMID 16541049 .
+^ Hicks, Jesse (February 18, 2014). "This machine kills trolls" . The Verge . Archived from the original on August 27, 2014 . Retrieved September 7, 2014 .
+^ "List of largest (Media)wikis" . S23-Wiki. April 3, 2008. Archived from the original on August 25, 2014 . Retrieved December 12, 2014 .
+^ "Alexa Top 500 Global Sites" . Alexa Internet . Archived from the original on March 2, 2015 . Retrieved April 26, 2015 .
+^ Boulos, M. N. K.; Maramba, I.; Wheeler, S. (2006), "Wikis, blogs and podcasts: a new generation of Web-based tools for virtual collaborative clinical practice and education", BMC Medical Education , 6 41, doi : 10.1186/1472-6920-6-41 , PMC 1564136 , PMID 16911779
+^ Müller, C.; Birn, L. (September 6–8, 2006). "Wikis for Collaborative Software Documentation" (PDF) . i-know.tugraz.at . Proceedings of I-KNOW '06. Archived from the original (PDF) on July 6, 2011.
+^ Majchrzak, A.; Wagner, C.; Yates, D. (2006), "Corporate wiki users: results of a survey", Proceedings of the 2006 international symposium on Wikis , Symposium on Wikis, pp. 99– 104, doi : 10.1145/1149453.1149472 , ISBN 978-1-59593-413-0 , S2CID 13206858
+^ Grudin, Jonathan; Poole, Erika Shehan (2015). "Wikis at work: Success factors and challenges for sustainability of enterprise wikis" . Microsoft Research . Archived from the original on September 4, 2015 . Retrieved June 16, 2015 .
+^ Conlin, Michelle (November 28, 2005), "E-Mail Is So Five Minutes Ago" , Bloomberg BusinessWeek , archived from the original on October 17, 2012
+^ "HomePage" . Project Management Wiki.org . Archived from the original on August 16, 2014 . Retrieved May 8, 2012 .
+^ "Ways to Wiki: Project Management" . EditMe . January 4, 2010. Archived from the original on May 8, 2012.
+^ Wanderley, M. M.; Birnbaum, D.; Malloch, J. (2006). "SensorWiki.org: a collaborative resource for researchers and interface designers" . NIME '06 Proceedings of the 2006 Conference on New Interfaces for Musical Expression . IRCAM – Centre Pompidou: 180– 183. ISBN 978-2-84426-314-8 .
+^ Lombardo, Nancy T. (June 2008). "Putting Wikis to Work in Libraries". Medical Reference Services Quarterly . 27 (2): 129– 145. doi : 10.1080/02763860802114223 . PMID 18844087 . S2CID 11552140 .
+^ Noveck, Beth Simone (2007). "Wikipedia and the Future of Legal Education" . Journal of Legal Education . 57 : 3.
+^ Au, C. H. (December 2017). "Wiki as a research support system – A trial in information systems research". 2017 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM) . pp. 2271– 2275. doi : 10.1109/IEEM.2017.8290296 . ISBN 978-1-5386-0948-4 . S2CID 44029462 .
+^ Au, Cheuk-hang. "Using Wiki for Project Collaboration – with Comparison on Facebook" (PDF) . Archived (PDF) from the original on April 12, 2019.
+^ Andersen, Michael (November 6, 2009). "Welcome to Davis, Calif.: Six lessons from the world's best local wiki" . Nieman Lab . Archived from the original on August 8, 2013 . Retrieved January 6, 2023 .
+^ McGann, Laura (June 18, 2010). "Knight News Challenge: Is a wiki site coming to your city? Local Wiki will build software to make it simple" . Nieman Lab . Archived from the original on June 25, 2013 . Retrieved January 6, 2023 .
+^ Wired : Makice, Kevin (July 15, 2009). Hey, Kid: Support Your Local Wiki Archived April 27, 2015, at the Wayback Machine
+^ Roth, C.; Taraborelli, D.; Gilbert, N. (2008). "Measuring wiki viability. An empirical assessment of the social dynamics of a large sample of wikis" (PDF) . nitens.org . The Centre for Research in Social Simulation: 3. Archived (PDF) from the original on October 11, 2017. Figure 4 shows that having a relatively high number of administrators for a given content size is likely to reduce growth.
+^ Roth, C.; Taraborelli, D.; Gilbert, N. (2008). "Measuring wiki viability. An empirical assessment of the social dynamics of a large sample of wikis" (PDF) . Surrey Research Insight Open Access . The Centre for Research in Social Simulation. Archived from the original (PDF) on June 16, 2012 . Retrieved November 9, 2018 .
+^ Walsh, Kathleen M.; Oh, Sarah (February 23, 2010). "Self-Regulation: How Wikipedia Leverages User-Generated Quality Control Under Section 230" . Archived from the original on January 6, 2014.
+^ Myers, Ken S. (2008), "Wikimmunity: Fitting the Communications Decency Act to Wikipedia" , Harvard Journal of Law and Technology , 20 , The Berkman Center for Internet and Society: 163, SSRN 916529 , archived from the original on January 24, 2024
+^ Jarvis, Joshua (May 2008), "Police your marks in a wiki world" , Managing Intellectual Property , 179 (179): 101– 103, archived from the original on March 4, 2016
+^ "Atlassian" . Summit.atlassian.com. Archived from the original on June 13, 2011 . Retrieved June 20, 2011 .
+^ "SMWCon" . Semantic-mediawiki.org. Archived from the original on July 14, 2011 . Retrieved June 20, 2011 .
+^ "TikiFest" . Tiki.org. Archived from the original on June 30, 2011 . Retrieved June 20, 2011 .
+^ "Regiowiki Main Page" . Wiki.regiowiki.eu. Archived from the original on August 13, 2009 . Retrieved June 20, 2011 .
+Sources
+Ebersbach, Anja (2008), Wiki: Web Collaboration , Springer Science+Business Media , ISBN 978-3-540-35150-4
+Further reading
+Mader, Stewart (2007), Wikipatterns , John Wiley & Sons , ISBN 978-0-470-22362-8
+Tapscott, Don (2008), Wikinomics: How Mass Collaboration Changes Everything , Portfolio Hardcover, ISBN 978-1-59184-193-7
+External links
+Definitions from Wiktionary
+Media from Commons
+News from Wikinews
+Resources from Wikiversity
+Data from Wikidata
+Documentation from MediaWiki
+Exploring with Wiki , an interview with Ward Cunningham
+Murphy, Paula (April 2006). Topsy-turvy World of Wiki . University of California .
+Ward Cunningham's correspondence with etymologists
+WikiIndex and WikiApiary , directories of wikis
+WikiMatrix , a website for comparing wiki software and hosts
+wikiteam on GitHub
+v t e Wikis
+v
+t
+e
+Types
+Fan Personal Medical Semantic
+Fan
+Personal
+Medical
+Semantic
+Components
+Software
+Software
+Lists
+Fan wikis LocalWikis Wikis Wiki software Wikipedias Wiktionaries
+Fan wikis
+LocalWikis
+Wikis
+Wiki software
+Wikipedias
+Wiktionaries
+Comparisons
+Software Wiki farms
+Software
+Wiki farms
+Notable wikis
+Ballotpedia Biographicon Book Drum Chalo Chatu Conservapedia DavisWiki Diplopedia Encyclopedia Dramatica Engineering and Technology History Wiki Family History Research Wiki Gene Wiki Geo-Wiki Giant Bomb Gynopedia The Hidden Wiki Intellipedia LifeWiki LocalWiki Moegirlpedia Namuwiki Open protein structure annotation network Qiuwen Baike RationalWiki Resistance Manual Rigveda Wiki Ruwiki Sky-Map.org The Cutting Room Floor TV Tropes Uncyclopedia WikiArt WikiFactor Wikifonia wikiHow Wikiloc Wikimania Wikipedia WikiProfessional Wikiprogress Wikirating WikiStage Wikistrat WikiTribune Wowpedia
+Ballotpedia
+Biographicon
+Book Drum
+Chalo Chatu
+Conservapedia
+DavisWiki
+Diplopedia
+Encyclopedia Dramatica
+Engineering and Technology History Wiki
+Family History Research Wiki
+Gene Wiki
+Geo-Wiki
+Giant Bomb
+Gynopedia
+The Hidden Wiki
+Intellipedia
+LifeWiki
+LocalWiki
+Moegirlpedia
+Namuwiki
+Open protein structure annotation network
+Qiuwen Baike
+RationalWiki
+Resistance Manual
+Rigveda Wiki
+Ruwiki
+Sky-Map.org
+The Cutting Room Floor
+TV Tropes
+Uncyclopedia
+WikiArt
+WikiFactor
+Wikifonia
+wikiHow
+Wikiloc
+Wikimania
+Wikipedia
+WikiProfessional
+Wikiprogress
+Wikirating
+WikiStage
+Wikistrat
+WikiTribune
+Wowpedia
+Wiki farms
+Confluence Fandom PBworks Wetpaint
+Confluence
+Fandom
+PBworks
+Wetpaint
+See also
+Wikis and education History Creole .wiki
+Wikis and education
+History
+Creole
+.wiki
+v t e Wiki software
+v
+t
+e
+.NET
+FlexWiki SharePoint
+FlexWiki
+SharePoint
+Java
+Confluence Jive Traction TeamPage XWiki
+Confluence
+Jive
+Traction TeamPage
+XWiki
+JavaScript
+TiddlyWiki Wiki.js
+TiddlyWiki
+Wiki.js
+Perl
+Foswiki ikiwiki TWiki UseModWiki WikiBase
+Foswiki
+ikiwiki
+TWiki
+UseModWiki
+WikiBase
+PHP
+BlueSpice BookStack DokuWiki MediaWiki PhpWiki Phriction PmWiki PukiWiki Tiki
+BlueSpice
+BookStack
+DokuWiki
+MediaWiki
+PhpWiki
+Phriction
+PmWiki
+PukiWiki
+Tiki
+Python
+Allura Bloodhound Kallithea MoinMoin Trac Zim
+Allura
+Bloodhound
+Kallithea
+MoinMoin
+Trac
+Zim
+Ruby
+Gollum Redmine
+Gollum
+Redmine
+Other languages
+CLiki Common Lisp Federated Wiki CoffeeScript Haskell
+CLiki Common Lisp
+Common Lisp
+Federated Wiki CoffeeScript Haskell
+CoffeeScript
+Haskell
+Comparison List Category
+Comparison
+List
+Category
+v t e Computer-mediated communication
+v
+t
+e
+Online chat Online discussion Communication software Collaborative software Social network service Virtual learning environment
+Online chat
+Online discussion
+Communication software
+Collaborative software
+Social network service
+Virtual learning environment
+Asynchronous conferencing
+Email Electronic mailing list FidoNet Usenet Internet forum Textboard Imageboard Bulletin board system Online guestbook
+Email
+Electronic mailing list
+FidoNet
+Usenet
+Internet forum Textboard Imageboard
+Textboard
+Imageboard
+Bulletin board system
+Online guestbook
+Synchronous conferencing
+Data conferencing Instant messaging Internet Relay Chat LAN messenger Talker Videoconferencing Voice over IP Voice chat in online gaming Web chat Web conferencing
+Data conferencing
+Instant messaging
+Internet Relay Chat
+LAN messenger
+Talker
+Videoconferencing
+Voice over IP Voice chat in online gaming
+Voice chat in online gaming
+Web chat
+Web conferencing
+Publishing
+Blog Microblogging Wiki
+Blog
+Microblogging
+Wiki
+v t e Sharing economy
+v
+t
+e
+Concepts
+Social peer-to-peer processes Peer-to-peer banking Peer-to-peer carsharing Peer-to-peer lending Peer-to-peer ridesharing Barter Bicycle-sharing system Book swapping Public bookcase Borrowing center Decentralization Carpool Carsharing Circular economy Clothing swap Co-living Collaborative consumption Crowdfunding Comparison Crowdsourcing Flight sharing Garden sharing Gig economy List of companies Gig worker Home exchange Homestay Intentional community Library of things Platform cooperative Platform economy Reuse Ridesharing company Scooter-sharing system Tool library Two-sided market Upcycling Wiki
+Social peer-to-peer processes
+Peer-to-peer banking Peer-to-peer carsharing Peer-to-peer lending Peer-to-peer ridesharing
+Peer-to-peer banking
+Peer-to-peer carsharing
+Peer-to-peer lending
+Peer-to-peer ridesharing
+Barter Bicycle-sharing system Book swapping Public bookcase Borrowing center Decentralization Carpool Carsharing Circular economy Clothing swap Co-living Collaborative consumption Crowdfunding Comparison Crowdsourcing Flight sharing Garden sharing Gig economy List of companies Gig worker Home exchange Homestay Intentional community Library of things Platform cooperative Platform economy Reuse Ridesharing company Scooter-sharing system Tool library Two-sided market Upcycling Wiki
+Barter
+Bicycle-sharing system
+Book swapping Public bookcase
+Public bookcase
+Borrowing center
+Decentralization
+Carpool
+Carsharing
+Circular economy
+Clothing swap
+Co-living
+Collaborative consumption
+Crowdfunding Comparison
+Comparison
+Crowdsourcing
+Flight sharing
+Garden sharing
+Gig economy List of companies
+List of companies
+Gig worker
+Home exchange
+Homestay
+Intentional community
+Library of things
+Platform cooperative
+Platform economy
+Reuse
+Ridesharing company
+Scooter-sharing system
+Tool library
+Two-sided market
+Upcycling
+Wiki
+Companies
+Transportation BlaBlaCar Co-Op Ride Wingly Hospitality exchange services CouchSurfing Dachgeber HelpX HomeExchange.com Hospitality Club Pasporta Servo Servas International Warm Showers Swap and renting Craigslist The Freecycle Network Streetbank Olio
+Transportation
+BlaBlaCar Co-Op Ride Wingly
+BlaBlaCar
+Co-Op Ride
+Wingly
+Hospitality exchange services
+CouchSurfing Dachgeber HelpX HomeExchange.com Hospitality Club Pasporta Servo Servas International Warm Showers
+CouchSurfing
+Dachgeber
+HelpX
+HomeExchange.com
+Hospitality Club
+Pasporta Servo
+Servas International
+Warm Showers
+Swap and renting
+Craigslist The Freecycle Network Streetbank Olio
+Craigslist
+The Freecycle Network
+Streetbank
+Olio
+Authority control databases
+International
+GND FAST
+GND
+FAST
+National
+United States France BnF data Czech Republic Israel
+United States
+France
+BnF data
+Czech Republic
+Israel
+Other
+Yale LUX
+Yale LUX
+Wikis
+Hawaiian words and phrases
+Self-organization
+Social information processing
+Pages using the Phonos extension
+Pages with plain IPA
+Pages containing links to subscription-only content
+Webarchive template wayback links
+Articles with short description
+Short description is different from Wikidata
+Wikipedia extended-confirmed-protected pages
+Wikipedia indefinitely move-protected pages
+Use mdy dates from July 2019
+Pages including recorded pronunciations
+Pages with Hawaiian IPA
+Wikipedia articles needing clarification from October 2024
+Wikipedia articles in need of updating from July 2013
+All Wikipedia articles in need of updating
+All articles lacking reliable references
+Articles lacking reliable references from July 2013
+Pages using Sister project links with wikidata namespace mismatch
+Pages using Sister project links with hidden wikidata
+Pages using Sister project links with default search
+Articles with hAudio microformats
+Spoken articles
+Articles containing video clips
+This page was last edited on 23 February 2026, at 10:32 (UTC) .
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License ;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Legal & safety contacts
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view

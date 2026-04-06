@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.log
+.vscode/
+reports/
+output.log
+tested_urls.log
